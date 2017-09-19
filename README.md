@@ -15,7 +15,7 @@ The following needs to be installed:
 Clone this repo and get it running:
 
 ```
-> git clone https://github.com/kitsonk/pkts
+> git clone https://github.com/kitsonk/pkts.git
 > cd pkts
 > npm install
 ```
